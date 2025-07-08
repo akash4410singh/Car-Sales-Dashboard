@@ -9,8 +9,8 @@ This Power BI dashboard analyzes car sales data with insights into performance b
 | Page | Preview |
 |------|---------|
 | **1. Home**         | ![Overview](screenshots/page1-overview.png)       |
-| **2. Monthly Trends**   | ![Monthly Trends](screenshots/page2-trends.png)   |
-| **3. Sales by Region**  | ![Region](screenshots/page3-region.png)           |
+| **2. Overview**   | ![Monthly Trends](screenshots/page2-trends.png)   |
+| **3. Sales Analysis**  | ![Region](screenshots/page3-region.png)           |
 | **4. Brand Performance**| ![Brand](screenshots/page4-brand.png)             |
 | **5. Model Breakdown**  | ![Model](screenshots/page5-model.png)             |
 
